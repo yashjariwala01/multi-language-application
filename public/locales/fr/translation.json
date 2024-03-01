@@ -1,0 +1,7 @@
+{
+    "greeting":"Bonjour, bienvenue sur notre site Web",
+    "description":{
+        "line1":"vous voyez un mini-projet d'une série de mini-projets de mon profil {{platform}}",
+        "line2":"Aimez, partagez la publication si vous l'avez aimé"
+    }
+}
